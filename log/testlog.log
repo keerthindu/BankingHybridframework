@@ -1,0 +1,305 @@
+2021-06-01 06:19:00,280 - BaseClass -INFO - URL is opened
+2021-06-01 06:19:00,473 - BaseClass -INFO - Enter username
+2021-06-01 06:19:00,678 - BaseClass -INFO - Enter password
+2021-06-01 06:19:04,006 - BaseClass -INFO - Login test passed
+2021-06-01 08:16:14,667 - BaseClass -INFO - URL is opened
+2021-06-01 08:16:14,995 - BaseClass -INFO - Enter username
+2021-06-01 08:16:15,521 - BaseClass -INFO - Enter password
+2021-06-01 08:16:20,389 - BaseClass -INFO - Login test passed
+2021-06-01 08:34:22,439 - BaseClass -INFO - URL is opened
+2021-06-01 08:34:22,680 - BaseClass -INFO - Enter username
+2021-06-01 08:34:22,876 - BaseClass -INFO - Enter password
+2021-06-01 08:34:26,214 - BaseClass -INFO - Login test passed
+2021-06-01 09:13:50,181 - BaseClass -INFO - URL is opened
+2021-06-01 09:13:50,422 - BaseClass -INFO - Enter username
+2021-06-01 09:13:50,617 - BaseClass -INFO - Enter password
+2021-06-01 09:13:53,945 - BaseClass -INFO - Login test passed
+2021-06-01 09:15:43,673 - BaseClass -INFO - URL is opened
+2021-06-01 09:15:43,737 - BaseClass -INFO - Enter username
+2021-06-01 09:15:47,028 - BaseClass -INFO - Enter password
+2021-06-01 09:15:50,849 - BaseClass -INFO - Login test passed
+2021-06-01 09:16:29,055 - BaseClass -INFO - URL is opened
+2021-06-01 09:16:29,274 - BaseClass -INFO - Enter username
+2021-06-01 09:16:29,458 - BaseClass -INFO - Enter password
+2021-06-01 09:16:32,719 - BaseClass -INFO - Login test passed
+2021-06-01 09:22:18,922 - BaseClass -INFO - URL is opened
+2021-06-01 09:22:19,208 - BaseClass -INFO - Enter username
+2021-06-01 09:22:19,952 - BaseClass -INFO - Enter password
+2021-06-01 09:22:26,174 - BaseClass -INFO - Login test passed
+2021-06-01 10:13:03,814 - BaseClass -INFO - URL is opened
+2021-06-01 10:13:04,182 - BaseClass -INFO - Enter username
+2021-06-01 10:13:04,894 - BaseClass -INFO - Enter password
+2021-06-01 10:13:08,478 - BaseClass -INFO - Login test passed
+2021-06-01 22:19:55,149 - BaseClass -INFO - URL is opened
+2021-06-01 22:19:55,823 - BaseClass -INFO - Enter username
+2021-06-01 22:19:57,500 - BaseClass -INFO - Enter password
+2021-06-01 22:20:01,019 - BaseClass -INFO - Login test passed
+2021-06-02 08:13:42,452 - BaseClass -INFO - URL is opened
+2021-06-02 08:13:42,680 - BaseClass -INFO - Enter username
+2021-06-02 08:13:42,872 - BaseClass -INFO - Enter password
+2021-06-02 08:13:46,761 - BaseClass -INFO - Login test failed
+2021-06-02 08:15:57,005 - BaseClass -INFO - URL is opened
+2021-06-02 08:15:57,208 - BaseClass -INFO - Enter username
+2021-06-02 08:15:57,422 - BaseClass -INFO - Enter password
+2021-06-03 13:57:29,436 - BaseClass -INFO - User name provided
+2021-06-03 13:57:29,788 - BaseClass -INFO - password provided
+2021-06-03 13:59:36,074 - BaseClass -INFO - User name provided
+2021-06-03 13:59:36,284 - BaseClass -INFO - password provided
+2021-06-03 13:59:54,990 - BaseClass -INFO - login passed
+2021-06-03 14:08:31,225 - BaseClass -INFO - User name provided
+2021-06-03 14:08:31,370 - BaseClass -INFO - password provided
+2021-06-03 14:08:47,461 - BaseClass -INFO - login passed
+2021-06-03 14:10:45,494 - BaseClass -INFO - User name provided
+2021-06-03 14:10:45,636 - BaseClass -INFO - password provided
+2021-06-03 14:10:58,426 - BaseClass -INFO - login passed
+2021-06-03 14:10:58,613 - BaseClass -INFO - User name provided
+2021-06-03 14:10:58,744 - BaseClass -INFO - password provided
+2021-06-03 14:11:05,586 - BaseClass -INFO - User name provided
+2021-06-03 14:11:05,724 - BaseClass -INFO - password provided
+2021-06-03 14:11:12,316 - BaseClass -INFO - User name provided
+2021-06-03 14:11:12,436 - BaseClass -INFO - password provided
+2021-06-03 14:11:25,414 - BaseClass -INFO - login passed
+2021-06-03 14:11:25,569 - BaseClass -INFO - User name provided
+2021-06-03 14:11:25,714 - BaseClass -INFO - password provided
+2021-06-03 21:19:08,001 - BaseClass -INFO - User name provided
+2021-06-03 21:19:08,357 - BaseClass -INFO - password provided
+2021-06-03 21:19:24,621 - BaseClass -INFO - login passed
+2021-06-03 21:19:24,891 - BaseClass -INFO - User name provided
+2021-06-03 21:19:25,046 - BaseClass -INFO - password provided
+2021-06-03 21:19:31,249 - BaseClass -INFO - User name provided
+2021-06-03 21:19:31,379 - BaseClass -INFO - password provided
+2021-06-03 21:19:37,840 - BaseClass -INFO - User name provided
+2021-06-03 21:19:37,964 - BaseClass -INFO - password provided
+2021-06-03 21:19:48,938 - BaseClass -INFO - login passed
+2021-06-03 21:19:49,087 - BaseClass -INFO - User name provided
+2021-06-03 21:19:49,230 - BaseClass -INFO - password provided
+2021-06-04 01:44:20,237 - BaseClass -INFO - User name is provided
+2021-06-04 01:44:20,502 - BaseClass -INFO - password is provided
+2021-06-04 01:44:29,449 - BaseClass -INFO - Providing customer details...
+2021-06-04 01:44:40,746 - BaseClass -INFO - Validation has started..
+2021-06-04 01:44:40,777 - BaseClass -INFO - New customer added successfully
+2021-06-04 01:48:21,941 - BaseClass -INFO - URL is opened
+2021-06-04 01:48:22,458 - BaseClass -INFO - Enter username
+2021-06-04 01:48:23,210 - BaseClass -INFO - Enter password
+2021-06-04 01:50:01,606 - BaseClass -INFO - URL is opened
+2021-06-04 01:50:01,848 - BaseClass -INFO - Enter username
+2021-06-04 01:50:02,049 - BaseClass -INFO - Enter password
+2021-06-04 01:52:09,641 - BaseClass -INFO - URL is opened
+2021-06-04 01:52:09,839 - BaseClass -INFO - Enter username
+2021-06-04 01:52:10,040 - BaseClass -INFO - Enter password
+2021-06-04 01:55:26,213 - BaseClass -INFO - URL is opened
+2021-06-04 01:55:26,434 - BaseClass -INFO - Enter username
+2021-06-04 01:55:26,710 - BaseClass -INFO - Enter password
+2021-06-04 01:55:33,429 - BaseClass -INFO - Login test passed
+2021-06-04 01:57:24,374 - BaseClass -INFO - URL is opened
+2021-06-04 01:57:24,575 - BaseClass -INFO - Enter username
+2021-06-04 01:57:24,770 - BaseClass -INFO - Enter password
+2021-06-04 01:57:31,928 - BaseClass -INFO - Login test passed
+2021-06-04 01:57:44,405 - BaseClass -INFO - User name provided
+2021-06-04 01:57:44,548 - BaseClass -INFO - password provided
+2021-06-04 01:57:57,331 - BaseClass -INFO - login passed
+2021-06-04 01:57:57,508 - BaseClass -INFO - User name provided
+2021-06-04 01:57:57,639 - BaseClass -INFO - password provided
+2021-06-04 01:58:04,810 - BaseClass -INFO - User name provided
+2021-06-04 01:58:04,940 - BaseClass -INFO - password provided
+2021-06-04 01:58:11,457 - BaseClass -INFO - User name provided
+2021-06-04 01:58:11,581 - BaseClass -INFO - password provided
+2021-06-04 01:58:24,702 - BaseClass -INFO - login passed
+2021-06-04 01:58:24,872 - BaseClass -INFO - User name provided
+2021-06-04 01:58:25,011 - BaseClass -INFO - password provided
+2021-06-04 01:58:39,123 - BaseClass -INFO - User name is provided
+2021-06-04 01:58:39,269 - BaseClass -INFO - password is provided
+2021-06-04 01:58:44,733 - BaseClass -INFO - Providing customer details...
+2021-06-04 01:58:55,316 - BaseClass -INFO - Validation has started..
+2021-06-04 01:58:55,348 - BaseClass -INFO - New customer added successfully
+2021-06-04 02:02:17,651 - BaseClass -INFO - User name provided
+2021-06-04 02:02:17,824 - BaseClass -INFO - password provided
+2021-06-04 02:02:24,868 - BaseClass -INFO - User name provided
+2021-06-04 02:02:24,998 - BaseClass -INFO - password provided
+2021-06-04 02:02:30,329 - BaseClass -INFO - User name provided
+2021-06-04 02:02:30,453 - BaseClass -INFO - password provided
+2021-06-04 03:20:38,366 - BaseClass -INFO - User name is provided
+2021-06-04 03:20:38,535 - BaseClass -INFO - password is provided
+2021-06-04 03:20:43,673 - BaseClass -INFO - Providing customer details...
+2021-06-04 03:20:54,857 - BaseClass -INFO - Validation has started..
+2021-06-04 03:20:54,897 - BaseClass -INFO - New customer added successfully
+2021-06-04 03:23:52,261 - BaseClass -INFO - User name is provided
+2021-06-04 03:23:52,516 - BaseClass -INFO - password is provided
+2021-06-04 03:23:57,760 - BaseClass -INFO - Providing customer details...
+2021-06-04 03:24:08,695 - BaseClass -INFO - Validation has started..
+2021-06-04 03:24:09,006 - BaseClass -INFO - New customer added successfully
+2021-06-04 15:11:12,536 - BaseClass -INFO - URL is opened
+2021-06-04 15:11:13,307 - BaseClass -INFO - Enter username
+2021-06-04 15:11:15,748 - BaseClass -INFO - Enter password
+2021-06-04 15:11:25,023 - BaseClass -INFO - Login test passed
+2021-06-04 15:11:40,100 - BaseClass -INFO - User name is provided
+2021-06-04 15:11:40,293 - BaseClass -INFO - password is provided
+2021-06-04 15:11:50,420 - BaseClass -INFO - Providing customer details...
+2021-06-04 15:12:02,570 - BaseClass -INFO - Validation has started..
+2021-06-04 15:12:03,040 - BaseClass -INFO - New customer added successfully
+2021-06-04 17:12:13,752 - BaseClass -INFO - URL is opened
+2021-06-04 17:12:14,063 - BaseClass -INFO - Enter username
+2021-06-04 17:12:14,349 - BaseClass -INFO - Enter password
+2021-06-04 17:12:20,158 - BaseClass -INFO - Login test passed
+2021-06-04 17:12:28,392 - BaseClass -INFO - User name is provided
+2021-06-04 17:12:28,599 - BaseClass -INFO - password is provided
+2021-06-04 17:12:33,456 - BaseClass -INFO - Providing customer details...
+2021-06-04 17:12:44,351 - BaseClass -INFO - Validation has started..
+2021-06-04 17:12:44,754 - BaseClass -INFO - New customer added successfully
+2021-06-04 18:16:15,917 - BaseClass -INFO - URL is opened
+2021-06-04 18:16:16,163 - BaseClass -INFO - Enter username
+2021-06-04 18:16:16,345 - BaseClass -INFO - Enter password
+2021-06-04 18:16:22,969 - BaseClass -INFO - Login test passed
+2021-06-04 18:16:30,498 - BaseClass -INFO - User name is provided
+2021-06-04 18:16:30,646 - BaseClass -INFO - password is provided
+2021-06-04 18:16:36,518 - BaseClass -INFO - Providing customer details...
+2021-06-04 18:16:47,303 - BaseClass -INFO - Validation has started..
+2021-06-04 18:16:47,511 - BaseClass -INFO - New customer added successfully
+2021-06-04 22:08:55,135 - BaseClass -INFO - URL is opened
+2021-06-04 22:08:56,362 - BaseClass -INFO - Enter username
+2021-06-04 22:08:57,427 - BaseClass -INFO - Enter password
+2021-06-04 22:09:03,470 - BaseClass -INFO - Login test passed
+2021-06-04 22:09:11,710 - BaseClass -INFO - User name is provided
+2021-06-04 22:09:11,978 - BaseClass -INFO - password is provided
+2021-06-04 22:09:20,569 - BaseClass -INFO - Providing customer details...
+2021-06-04 22:10:26,791 - BaseClass -INFO - Validation has started..
+2021-06-04 22:12:03,578 - BaseClass -INFO - URL is opened
+2021-06-04 22:12:03,802 - BaseClass -INFO - Enter username
+2021-06-04 22:12:04,002 - BaseClass -INFO - Enter password
+2021-06-04 22:12:09,297 - BaseClass -INFO - Login test passed
+2021-06-04 22:12:16,263 - BaseClass -INFO - User name is provided
+2021-06-04 22:12:16,420 - BaseClass -INFO - password is provided
+2021-06-04 22:12:21,898 - BaseClass -INFO - Providing customer details...
+2021-06-04 22:12:32,517 - BaseClass -INFO - Validation has started..
+2021-06-04 22:12:32,827 - BaseClass -INFO - New customer added successfully
+2021-07-04 23:27:35,912 - BaseClass -INFO - URL is opened
+2021-07-04 23:27:36,434 - BaseClass -INFO - Enter username
+2021-07-04 23:27:40,360 - BaseClass -INFO - Enter password
+2021-07-04 23:27:46,514 - BaseClass -INFO - Login test passed
+2021-07-04 23:27:54,655 - BaseClass -INFO - User name is provided
+2021-07-04 23:27:54,813 - BaseClass -INFO - password is provided
+2021-07-04 23:27:59,499 - BaseClass -INFO - Providing customer details...
+2021-07-04 23:28:09,120 - BaseClass -INFO - Validation has started..
+2021-07-05 22:02:50,509 - BaseClass -INFO - URL is opened
+2021-07-05 22:02:51,149 - BaseClass -INFO - Enter username
+2021-07-05 22:02:51,404 - BaseClass -INFO - Enter password
+2021-07-05 22:02:57,416 - BaseClass -INFO - Login test passed
+2021-07-05 22:03:05,007 - BaseClass -INFO - User name is provided
+2021-07-05 22:03:05,174 - BaseClass -INFO - password is provided
+2021-07-05 22:03:10,608 - BaseClass -INFO - Providing customer details...
+2021-07-05 22:03:21,364 - BaseClass -INFO - Validation has started..
+2021-07-05 22:03:21,680 - BaseClass -INFO - New customer added successfully
+2021-07-05 22:04:48,136 - BaseClass -INFO - URL is opened
+2021-07-05 22:04:48,358 - BaseClass -INFO - Enter username
+2021-07-05 22:04:48,530 - BaseClass -INFO - Enter password
+2021-07-05 22:04:54,285 - BaseClass -INFO - Login test passed
+2021-07-05 22:05:02,540 - BaseClass -INFO - User name is provided
+2021-07-05 22:05:02,776 - BaseClass -INFO - password is provided
+2021-07-05 22:05:07,832 - BaseClass -INFO - Providing customer details...
+2021-07-05 22:05:17,272 - BaseClass -INFO - Validation has started..
+2021-07-05 22:12:28,008 - BaseClass -INFO - URL is opened
+2021-07-05 22:12:28,468 - BaseClass -INFO - Enter username
+2021-07-05 22:12:28,630 - BaseClass -INFO - Enter password
+2021-07-05 22:12:34,041 - BaseClass -INFO - Login test passed
+2021-07-05 22:12:42,097 - BaseClass -INFO - User name is provided
+2021-07-05 22:12:42,273 - BaseClass -INFO - password is provided
+2021-07-05 22:12:48,143 - BaseClass -INFO - Providing customer details...
+2021-07-05 22:12:59,155 - BaseClass -INFO - Validation has started..
+2021-07-05 22:12:59,377 - BaseClass -INFO - New customer added successfully
+2021-07-05 22:14:58,260 - BaseClass -INFO - URL is opened
+2021-07-05 22:14:58,468 - BaseClass -INFO - Enter username
+2021-07-05 22:14:58,630 - BaseClass -INFO - Enter password
+2021-07-05 22:15:03,503 - BaseClass -INFO - Login test passed
+2021-07-05 22:15:12,195 - BaseClass -INFO - User name is provided
+2021-07-05 22:15:12,364 - BaseClass -INFO - password is provided
+2021-07-05 22:15:17,317 - BaseClass -INFO - Providing customer details...
+2021-07-05 22:15:27,547 - BaseClass -INFO - Validation has started..
+2021-07-05 22:15:27,781 - BaseClass -INFO - New customer added successfully
+2021-07-05 22:50:21,238 - BaseClass -INFO - URL is opened
+2021-07-05 22:50:21,474 - BaseClass -INFO - Enter username
+2021-07-05 22:50:21,638 - BaseClass -INFO - Enter password
+2021-07-05 22:50:27,286 - BaseClass -INFO - Login test passed
+2021-07-05 22:50:34,857 - BaseClass -INFO - User name is provided
+2021-07-05 22:50:35,049 - BaseClass -INFO - password is provided
+2021-07-05 22:50:40,858 - BaseClass -INFO - Providing customer details...
+2021-07-05 22:50:51,719 - BaseClass -INFO - Validation has started..
+2021-07-05 22:50:51,957 - BaseClass -INFO - New customer added successfully
+2021-07-05 22:57:44,335 - BaseClass -INFO - URL is opened
+2021-07-05 22:57:44,564 - BaseClass -INFO - Enter username
+2021-07-05 22:57:44,792 - BaseClass -INFO - Enter password
+2021-07-05 22:57:50,220 - BaseClass -INFO - Login test passed
+2021-07-05 22:57:57,791 - BaseClass -INFO - User name is provided
+2021-07-05 22:57:58,044 - BaseClass -INFO - password is provided
+2021-07-05 22:58:03,122 - BaseClass -INFO - Providing customer details...
+2021-07-05 22:58:13,898 - BaseClass -INFO - Validation has started..
+2021-07-05 22:58:14,112 - BaseClass -INFO - New customer added successfully
+2021-07-05 23:03:45,204 - BaseClass -INFO - URL is opened
+2021-07-05 23:03:45,464 - BaseClass -INFO - Enter username
+2021-07-05 23:03:45,679 - BaseClass -INFO - Enter password
+2021-07-05 23:03:51,296 - BaseClass -INFO - Login test passed
+2021-07-05 23:04:00,153 - BaseClass -INFO - User name is provided
+2021-07-05 23:04:00,349 - BaseClass -INFO - password is provided
+2021-07-05 23:04:09,237 - BaseClass -INFO - Providing customer details...
+2021-07-05 23:04:19,871 - BaseClass -INFO - Validation has started..
+2021-07-05 23:04:20,163 - BaseClass -INFO - New customer added successfully
+2021-07-05 23:07:18,702 - BaseClass -INFO - URL is opened
+2021-07-05 23:07:18,932 - BaseClass -INFO - Enter username
+2021-07-05 23:07:19,126 - BaseClass -INFO - Enter password
+2021-07-05 23:07:25,064 - BaseClass -INFO - Login test passed
+2021-07-05 23:07:35,634 - BaseClass -INFO - User name is provided
+2021-07-05 23:07:35,767 - BaseClass -INFO - password is provided
+2021-07-05 23:07:42,939 - BaseClass -INFO - Providing customer details...
+2021-07-05 23:07:54,203 - BaseClass -INFO - Validation has started..
+2021-07-05 23:07:54,405 - BaseClass -INFO - New customer added successfully
+2021-07-05 23:11:50,160 - BaseClass -INFO - URL is opened
+2021-07-05 23:11:50,409 - BaseClass -INFO - Enter username
+2021-07-05 23:11:50,606 - BaseClass -INFO - Enter password
+2021-07-05 23:11:55,633 - BaseClass -INFO - Login test passed
+2021-07-05 23:12:04,532 - BaseClass -INFO - User name is provided
+2021-07-05 23:12:04,713 - BaseClass -INFO - password is provided
+2021-07-05 23:12:09,925 - BaseClass -INFO - Providing customer details...
+2021-07-05 23:12:26,471 - BaseClass -INFO - Validation has started..
+2021-07-05 23:12:26,694 - BaseClass -INFO - New customer added successfully
+2021-07-05 23:15:39,145 - BaseClass -INFO - URL is opened
+2021-07-05 23:15:39,368 - BaseClass -INFO - Enter username
+2021-07-05 23:15:39,531 - BaseClass -INFO - Enter password
+2021-07-05 23:15:46,116 - BaseClass -INFO - Login test passed
+2021-07-05 23:15:53,720 - BaseClass -INFO - User name is provided
+2021-07-05 23:15:53,886 - BaseClass -INFO - password is provided
+2021-07-05 23:15:59,390 - BaseClass -INFO - Providing customer details...
+2021-07-05 23:16:09,838 - BaseClass -INFO - Validation has started..
+2021-07-05 23:16:10,078 - BaseClass -INFO - New customer added successfully
+2021-07-05 23:16:45,523 - BaseClass -INFO - URL is opened
+2021-07-05 23:16:45,804 - BaseClass -INFO - Enter username
+2021-07-05 23:16:45,955 - BaseClass -INFO - Enter password
+2021-07-05 23:16:51,752 - BaseClass -INFO - Login test passed
+2021-07-05 23:16:59,397 - BaseClass -INFO - User name is provided
+2021-07-05 23:16:59,552 - BaseClass -INFO - password is provided
+2021-07-05 23:17:05,275 - BaseClass -INFO - Providing customer details...
+2021-07-05 23:17:15,578 - BaseClass -INFO - Validation has started..
+2021-07-05 23:17:15,801 - BaseClass -INFO - New customer added successfully
+2021-07-05 23:23:23,992 - BaseClass -INFO - URL is opened
+2021-07-05 23:23:24,206 - BaseClass -INFO - Enter username
+2021-07-05 23:23:24,368 - BaseClass -INFO - Enter password
+2021-07-05 23:23:29,262 - BaseClass -INFO - Login test passed
+2021-07-05 23:23:41,569 - BaseClass -INFO - User name is provided
+2021-07-05 23:23:41,699 - BaseClass -INFO - password is provided
+2021-07-05 23:23:47,404 - BaseClass -INFO - Providing customer details...
+2021-07-05 23:23:57,027 - BaseClass -INFO - Validation has started..
+2021-07-05 23:28:52,669 - BaseClass -INFO - URL is opened
+2021-07-05 23:28:52,918 - BaseClass -INFO - Enter username
+2021-07-05 23:28:53,116 - BaseClass -INFO - Enter password
+2021-07-05 23:28:58,787 - BaseClass -INFO - Login test passed
+2021-07-05 23:29:06,881 - BaseClass -INFO - User name is provided
+2021-07-05 23:29:07,051 - BaseClass -INFO - password is provided
+2021-07-05 23:29:11,790 - BaseClass -INFO - Providing customer details...
+2021-07-05 23:29:20,967 - BaseClass -INFO - Validation has started..
+2021-07-05 23:55:03,687 - BaseClass -INFO - URL is opened
+2021-07-05 23:55:03,932 - BaseClass -INFO - Enter username
+2021-07-05 23:55:04,104 - BaseClass -INFO - Enter password
+2021-07-05 23:55:09,673 - BaseClass -INFO - Login test passed
+2021-07-05 23:55:16,816 - BaseClass -INFO - User name is provided
+2021-07-05 23:55:16,978 - BaseClass -INFO - password is provided
+2021-07-05 23:55:21,782 - BaseClass -INFO - Providing customer details...
+2021-07-05 23:55:32,088 - BaseClass -INFO - Validation has started..
+2021-07-05 23:55:32,317 - BaseClass -INFO - New customer added successfully
